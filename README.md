@@ -1,6 +1,5 @@
 E-Commerce Big Data Simulation & RFM Analysis
-
-Project Overview : 
+ 
 This project demonstrates **Advanced SQL** and **Data Engineering** capabilities by generating and analyzing a large-scale synthetic dataset (20,000+ records) for an E-commerce platform.
 
 Instead of using static Excel files, I used PostgreSQL's built-in functions to simulate a real-world transactional database environment, enabling performance testing and complex analytics.
