@@ -12,8 +12,7 @@ Instead of using static Excel files, I used PostgreSQL's built-in functions to s
     Year-over-Year (YoY) Growth %
     Data Modeling: Designed a relational schema with Primary and Foreign Keys.
 
-  Key Insights & Queries
-  The SQL script (`E_Commerce_Analysis.sql`) includes solutions for:
+  The SQL script includes solutions for:
 1.  **RFM Analysis:** Identifying top high-value clients.
 2.  **Sales Trends:** Smoothing daily volatility using Moving Averages.
 3.  **Financial Growth:** Calculating dynamic revenue growth rates.
